@@ -1,34 +1,4 @@
-# ops.py ---
-#
-# Filename: ops.py
-# Description:
-# Author: Kwang Moo Yi
-# Maintainer:
-# Created: Tue Apr  3 14:09:17 2018 (-0700)
-# Version:
-# Package-Requires: ()
-# URL:
-# Doc URL:
-# Keywords:
-# Compatibility:
-#
-#
 
-# Commentary:
-#
-#
-#
-#
-
-# Change Log:
-#
-#
-#
-# Copyright (C)
-# Visual Computing Group @ University of Victoria
-# Computer Vision Lab @ EPFL
-
-# Code:
 
 import numpy as np
 import tensorflow as tf

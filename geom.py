@@ -1,34 +1,4 @@
-# geom.py ---
-#
-# Filename: geom.py
-# Description:
-# Author: Kwang Moo Yi
-# Maintainer:
-# Created: Thu Oct  5 14:53:24 2017 (+0200)
-# Version:
-# Package-Requires: ()
-# URL:
-# Doc URL:
-# Keywords:
-# Compatibility:
-#
-#
 
-# Commentary:
-#
-#
-#
-#
-
-# Change Log:
-#
-#
-#
-# Copyright (C)
-# Visual Computing Group @ University of Victoria
-# Computer Vision Lab @ EPFL
-
-# Code:
 
 import numpy as np
 

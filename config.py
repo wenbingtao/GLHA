@@ -1,32 +1,4 @@
-# config.py ---
-#
-# Filename: config.py
-# Description: Based on argparse usage from
-#              https://github.com/carpedm20/DCGAN-tensorflow
-# Author: Kwang Moo Yi
-# Maintainer:
-# Created: Mon Jun 26 11:06:51 2017 (+0200)
-# Version:
-# Package-Requires: ()
-# URL:
-# Doc URL:
-# Keywords:
-# Compatibility:
-#
-#
 
-# Commentary:
-#
-#
-#
-#
-
-# Change Log:
-#
-#
-#
-
-# Code:
 
 import argparse
 

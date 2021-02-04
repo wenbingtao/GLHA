@@ -1,35 +1,4 @@
-#!/usr/bin/env python3
-# dump_data.py ---
-#
-# Filename: dump_data.py
-# Description:
-# Author: Kwang Moo Yi
-# Maintainer:
-# Created: Mon Apr  2 18:33:34 2018 (-0700)
-# Version:
-# Package-Requires: ()
-# URL:
-# Doc URL:
-# Keywords:
-# Compatibility:
-#
-#
 
-# Commentary:
-#
-#
-#
-#
-
-# Change Log:
-#
-#
-#
-# Copyright (C)
-# Visual Computing Group @ University of Victoria
-# Computer Vision Lab @ EPFL
-
-# Code:
 
 
 from __future__ import print_function

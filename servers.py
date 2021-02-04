@@ -1,33 +1,3 @@
-# servers.py ---
-#
-# Filename: servers.py
-# Description:
-# Author: Kwang Moo Yi
-# Maintainer:
-# Created: Mon Apr  2 19:23:30 2018 (-0700)
-# Version:
-# Package-Requires: ()
-# URL:
-# Doc URL:
-# Keywords:
-# Compatibility:
-#
-#
-
-# Commentary:
-#
-#
-#
-#
-
-# Change Log:
-#
-#
-#
-# Copyright (C)
-# Visual Computing Group @ University of Victoria
-# Computer Vision Lab @ EPFL
-
 
 # Code:
 
