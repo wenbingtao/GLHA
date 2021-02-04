@@ -1,33 +1,3 @@
-# utils.py ---
-#
-# Filename: utils.py
-# Description:
-# Author: Kwang
-# Maintainer:
-# Created: Mon Jan 18 16:52:58 2016 (+0100)
-# Version:
-# Package-Requires: ()
-# URL:
-# Doc URL:
-# Keywords:
-# Compatibility:
-#
-#
-
-# Commentary:
-#
-#
-#
-#
-
-# Change Log:
-#
-#
-#
-#
-# Copyright (C)
-# Visual Computing Group @ University of Victoria
-# Computer Vision Lab @ EPFL
 
 # Code:
 

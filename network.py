@@ -1,34 +1,4 @@
-# network.py ---
-#
-# Filename: network.py
-# Description:
-# Author: Kwang Moo Yi
-# Maintainer:
-# Created: Tue Apr  3 12:27:30 2018 (-0700)
-# Version:
-# Package-Requires: ()
-# URL:
-# Doc URL:
-# Keywords:
-# Compatibility:
-#
-#
 
-# Commentary:
-#
-#
-#
-#
-
-# Change Log:
-#
-#
-#
-# Copyright (C)
-# Visual Computing Group @ University of Victoria
-# Computer Vision Lab @ EPFL
-
-# Code:
 
 
 import os
@@ -115,7 +85,7 @@ class MyNetwork(object):
 
             # -------------------- Network archintecture --------------------
             # Import correct build_graph function
-            from archs.cvpr2018 import build_graph
+            from archs.arch import build_graph
             # Build graph
             print("Building Graph")
             self.logits, self.logits_pre, self.logits_pre2 = build_graph(self.x_in, self.is_training, self.config)

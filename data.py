@@ -1,34 +1,4 @@
-# fundatmental_toy.py ---
-#
-# Filename: fundatmental_toy.py
-# Description:
-# Author: Kwang Moo Yi
-# Maintainer:
-# Created: Tue Feb 14 10:59:18 2017 (+0100)
-# Version:
-# Package-Requires: ()
-# URL:
-# Doc URL:
-# Keywords:
-# Compatibility:
-#
-#
 
-# Commentary:
-#
-#
-#
-#
-
-# Change Log:
-#
-#
-#
-# Copyright (C)
-# Visual Computing Group @ University of Victoria
-# Computer Vision Lab @ EPFL
-
-# Code:
 
 # Load data
 
